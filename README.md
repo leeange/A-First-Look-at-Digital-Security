@@ -15,3 +15,7 @@ The current PDF version is here:
 https://www.accessnow.org/cms/assets/uploads/2016/11/A-first-look-at-digital-security.pdf
 
 With this repository, we aim to share the content and design of the booklet so that it can be easily updated, tailored, and customized by ourselves and others.
+
+License information is [here](/LICENSE.md).
+
+![https://creativecommons.org/licenses/by-nc/4.0/](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)

@@ -1,6 +1,10 @@
 # A First Look at Digital Security
 
-This resource aims to make more accessible assessing risks in one's work, activism, and life.
+This booklet is made to help identify what you might have to protect in your digital world. Read in its entirety, you will find
+each persona has characteristics you may share, or fears you have heard before. These cartoon animals are not made to be
+the focus; it is the threats they face and solutions they suggest that are important.
+
+We present here only the beginning of the conversation: a place to start. If you are interested in implementing the solutions, or want to ask questions about your personal context and challenges, contact the [Access Now Digital Security Helpline](https://www.accessnow.org/help) at help@accessnow.org, or visit the resources listed on the back of the book.
 
 You can read more about this project in the following blogpost:
 

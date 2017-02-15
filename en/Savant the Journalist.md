@@ -1,5 +1,5 @@
 # Savant, the Journalist
-* Savant’s preferred gender pronoun is she/her/hers.
+\* Savant’s preferred gender pronoun is she/her/hers.
 
 Savant is a journalist communicating with survivors of puppy mills. Savant’s sources have secret information about a mill that has the chance to shut it down. Shady characters have already attempted to find out what information that is, so now Savant takes care that all of her **communications are encrypted**, and when she collaborates on an article, she uses **encrypted document sharing** options as well.
 

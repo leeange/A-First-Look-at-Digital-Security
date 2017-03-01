@@ -12,7 +12,7 @@ https://www.accessnow.org/a-first-look-at-digital-security/
 
 The current PDF version is here:
 
-https://www.accessnow.org/cms/assets/uploads/2016/11/A-first-look-at-digital-security.pdf
+https://www.accessnow.org/cms/assets/uploads/2017/02/A-first-look-at-digital-security_DigiCopy.pdf
 
 With this repository, we aim to share the content and design of the booklet so that it can be easily updated, tailored, and customized by ourselves and others.
 

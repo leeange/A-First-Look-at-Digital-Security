@@ -1,5 +1,5 @@
 # Julío, the Civil Rights Defender
-\* Julio’s preferred gender pronoun is he/him/his.
+\* Julío’s preferred gender pronoun is he/him/his.
 
 Julío works at a civil rights NGO. Though he does not work directly with clients, he knows his personal habits protect his co-workers and thus, the clients as well. Julío works very hard to ensure his **security hygiene** is quite good to responsibly care for his organization.
 

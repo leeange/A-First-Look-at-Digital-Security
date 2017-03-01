@@ -1,6 +1,6 @@
 A FIRST LOOK AT DIGITAL SECURITY
 
-as of November 14, 2016
+as of February 17, 2017
 
 --------------
 

@@ -2,7 +2,7 @@
 \* Maya’s preferred gender pronoun is they/them/their.
 
 Maya is an activist and blogger who calls attention to the effect of rising ocean temperatures on coast-dwelling penguins. Not
-everyone agrees with Maya’s work, and their* online accounts are often at risk of hacking and defacement.
+everyone agrees with Maya’s work, and their online accounts are often at risk of hacking and defacement.
 
 Recently, tensions have increased and Maya is concerned about someone stealing their devices. They have decided to encrypt all
 hard drives to better ensure the safety of their information.

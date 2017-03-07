@@ -14,9 +14,9 @@ https://www.accessnow.org/cms/assets/uploads/2017/02/A-first-look-at-digital-sec
 
 With this repository, we aim to share the content and design of the booklet so that it can be easily updated, tailored, and customized by ourselves and others.
 
-The design files are currently here, please let us know a better way to share them:
+The design files are located in the following repository:
 
-https://drive.google.com/file/d/0B8tsVJ6nGJjlQzFsbHgzUk5tQmM/view?usp=sharing
+https://github.com/AccessNow/A-First-Look-at-Digital-Security_assets
 
 License information is [here](/LICENSE.md).
 

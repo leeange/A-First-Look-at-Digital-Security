@@ -17,4 +17,4 @@ To mitigate these vulnerabilities:
 - Jaha regularly **clears out her chat histories** to avoid malicious access to previous conversation logs.
 - **Anonymous chat** lets Jaha connect with others like her.
 - She maintains **separate online personas** to divide her personal life from her academic life, taking special care to avoid being identifiable.
-- Jaha employs **mindful posting** to ensure what she publishes online cannot be traced back to her (wary of posting locations, specific dates, home addresses, etc.).
+- Jaha employs **mindful postin**g to ensure what she publishes online cannot be traced back to her (wary of posting locations, specific dates, home addresses, etc.).

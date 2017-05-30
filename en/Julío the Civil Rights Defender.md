@@ -1,7 +1,7 @@
 # Julío, the Civil Rights Defender
 \* Julío’s preferred gender pronoun is he/him/his.
 
-Julío works at a civil rights NGO. Though he does not work directly with clients, he knows his personal habits protect his co-workers and thus, the clients as well. Julío works very hard to ensure his **security hygiene** is quite good to responsibly care for his organization.
+Julío works at a civil rights NGO. Though he does not work directly with clients, he knows his personal habits protect his co-workers and, thus, the clients as well. Julío works very hard to ensure his **security hygiene** is quite good to responsibly care for his organization.
 
 What needs protecting?
 - Financial information, both donors and employees
@@ -9,7 +9,7 @@ What needs protecting?
 - Integrity and trust the organization has built
 - Private documents, like client statements and advocacy strategies
 
-Julío is vulnerable during his frequent travels due to the unprotected wifi, border checks, and multiple hotels he stays in. He has an open and helpful nature which may make him trust too quickly. His organization is widely known for its work, and he is their public face, often being contacted by strangers for assistance or advice. 
+Julío is vulnerable during his frequent travels due to the **unprotected wifi**, border checks, and multiple hotels he stays in. He has an open and helpful nature which may make him trust too quickly. His organization is widely known for its work, and he is their public face, often being contacted by strangers for assistance or advice. 
 
 To mitigate these vulnerabilities:
 - Julío **keeps software up-to-date**.

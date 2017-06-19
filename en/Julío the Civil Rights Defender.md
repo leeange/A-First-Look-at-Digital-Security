@@ -13,7 +13,8 @@ Julio is vulnerable during his frequent travels due to unprotected wi-fi connect
 
 To mitigate these vulnerabilities:
 - Julio **keeps software up-to-date**.
-- He has a **password manager** where he generates **unique, strong passwords** with over 30 characters, never using words that can be found in dictionaries, but including numbers and special characters.
+- He has a **password manager** where he generates **unique, strong passwords** with over 20 characters, never using words that can be found in dictionaries, but including numbers and special characters.
+- To secure his password manager with a passphrase that is strong and easy to remember at the same time, he has created a 6-word passphrase using the **Diceware method**.
 - When on shared or unknown wi-fi (like a cafe), Julio uses a trusted **Virtual Private Network (VPN)** to encrypt his connection to the internet.
 - When reading email, Julio **uses caution in opening unexpected links or attachments**, unless he has verified the senders’ identity by calling or messaging them.
 - When crossing country borders, Julio turns off his computer to ensure his **full-disk encryption** is active to prevent unauthorized access to his information.

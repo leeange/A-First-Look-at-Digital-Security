@@ -19,6 +19,7 @@ Important research, data, and plans are kept on Maya’s hard drives, and they f
 To mitigate these vulnerabilities:
 - All of their online accounts are guarded by **two-factor authentication**.
 - Maya keeps track of what computers have accessed their accounts, and from where, with the **security checkups** offered by Google and Facebook.
+- They use **privacy enhancing browser extensions** to avoid **website visitor tracking**, which may reveal some of her interests.
 - **Strong passwords** are employed on all accounts: over 20 characters, all unique, with numbers and special characters. To remember and manage all these passwords, Maya uses a **Password Manager**, which they access through a passphrase generated with the Diceware method.
 - Maya ensures all of their devices have **full-disk encryption** enabled.
 - They **encrypt all sensitive files**, also in external media like flash drives and hard drives.

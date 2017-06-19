@@ -18,4 +18,4 @@ To mitigate these vulnerabilities:
 - When on shared or unknown wi-fi (like a cafe), Julio uses a trusted **Virtual Private Network (VPN)** to encrypt his connection to the internet.
 - When reading email, Julio **uses caution in opening unexpected links or attachments**, unless he has verified the senders’ identity by calling or messaging them.
 - When crossing country borders, Julio turns off his computer to ensure his **full-disk encryption** is active to prevent unauthorized access to his information.
-- He remembers what is posted outside of work can hurt the NGO as well. He employs **mindful posting** to ensure what he publishes on his personal accounts cannot be used against him (wary of posting locations, specific dates, home addresses, etc.).
+- He remembers what is posted outside of work can impact the NGO's work as well. He employs **mindful posting** to ensure what he publishes on his personal accounts cannot be used to personally target him or the NGO he works for (wary of posting locations, images from private events, addresses, etc.).

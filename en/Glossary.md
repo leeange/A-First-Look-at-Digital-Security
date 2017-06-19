@@ -7,6 +7,7 @@ Glossary
 - Censorship Circumvention
 - Chat History
 - Defacement
+- Diceware Method
 - Email Encryption
 - Encrypted Chat
 - Encrypted Document Sharing
@@ -18,6 +19,7 @@ Glossary
 - Identity
 - Integrity
 - Logs
+- Mindful Posting
 - Online Persona
 - Password Manager
 - Privacy

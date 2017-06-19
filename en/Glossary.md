@@ -5,10 +5,12 @@ Glossary
 - Anonymity
 - Browser Extensions
 - Censorship Circumvention
+- Chat History
 - Defacement
 - Email Encryption
+- Encrypted Chat
 - Encrypted Document Sharing
-- Encrypted Instant Messenger
+- Encrypted Instant Messenger - *See Encrypted Chat*
 - Encrypted Texting and Voice Apps
 - Encryption
 - FDE - *See Full-Disk Encryption*
@@ -19,6 +21,9 @@ Glossary
 - Online Persona
 - Password Manager
 - Privacy
+- Short URLs - we should explain how to expand them (see Maya)
+- Secure Connections - SSL/TLS
+- Security Checkup
 - Software Updates
 - Strong Password
 - Two-Factor Authentication

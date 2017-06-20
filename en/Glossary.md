@@ -19,7 +19,6 @@ Glossary
 - Identity
 - Integrity
 - Logs
-- Mindful Posting
 - Online Persona
 - Password Manager
 - Privacy

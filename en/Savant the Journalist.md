@@ -15,13 +15,7 @@ and documents. Savant is known for taking on stories that question the status qu
 To mitigate these vulnerabilities:
 - Savant **encrypts emails** to sources from her laptop ensuring the confidentiality of the messages.
 - She uses **encrypted texting and voice apps** on her phone to connect with sources.
-<<<<<<< HEAD
 - When on shared or **untrusted wifi** (like a cafe), Savant uses a **Virtual Private Network** (**VPN**) to securely access the internet.
 - For chatting on a laptop or desktop, Savant uses an **encrypted instant messenger and voice client**.
-- Her collaboration work is done through encrypted document sharing.
-=======
-- When on shared or untrusted wifi (like a cafe), Savant uses a **Virtual Private Network (VPN)** to securely access the internet.
-- For chatting on a laptop or desktop, Savant uses an **encrypted instant messenger and voice client**.
 - Her collaboration work is done through **encrypted document sharing**.
->>>>>>> 63b69e71c1b0b9a5906135dea8fc6dd43c010605
 - When moving through security checkpoints, she turns off her computer to ensure **full-disk encryption** is active.

@@ -1,9 +1,10 @@
-# Julio, the Civil Rights Defender
+# Julio, the Civil Rights Lawyer
 \* Julio’s preferred gender pronoun is he/him/his.
 
 Julio works at a civil rights NGO. Though he does not work directly with clients, he knows his personal habits protect his co-workers and, thus, the clients as well. Julio works very hard to ensure his **security hygiene** is quite good to responsibly care for his organization.
 
 What needs protecting?
+- Legal information
 - Financial information, both donors and employees
 - Contact lists of partners and clients
 - Integrity and trust the organization has built

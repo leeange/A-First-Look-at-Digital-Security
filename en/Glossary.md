@@ -5,23 +5,22 @@ Glossary
   different entities: a lot of websites sell your data to advertising companies
   by installing in their websites small pieces of code that observe your
   browsing behaviour and keep track of you all over the web. Learn more about
-  how web trackers work and how you can avoid being tracked in [this
+  how web trackers work and how your movements can avoid been tracked in [this
   website](https://myshadow.org/browser-tracking).
-  https://www.eff.org/deeplinks/2009/09/online-trackers-and-social-networks
-- **Anonymity** - Generally connected to situations where an author or artist
-  prefers not to connect their work to their official name, in the internet
-  anonymity is a condition where a user can hide their identity, location and
-  other identifying details while [connecting to the
+- **Anonymity** - A term that generally refers to situations where an author or
+  artist prefers not to connect their work to their official name, in the
+  internet anonymity is a condition where a user can hide their identity,
+  location, and other identifying details while [connecting to the
   web](https://hygiene.digitalpublicsquare.com/I_want_to_be_anonymous_connecting_to_the_web/),
   [browsing
   websites](https://hygiene.digitalpublicsquare.com/I_want_to_be_anonymous_when_browsing_the_web/),
   [sending
   emails](https://hygiene.digitalpublicsquare.com/I_want_to_send_an_anonymous_email/),
   [chatting](https://hygiene.digitalpublicsquare.com/Id_like_to_have_an_anonymous_conversation/),
-  sharing files, etc.  Different from pseudonymity (the use of a nickname, alias
+  sharing files, etc. Different from pseudonymity (the use of a nickname, alias
   or handle other than one's official name), anonymity online requires the
   deployment of [tools and
-  tactics](https://hygiene.digitalpublicsquare.com/Identity_or_Location/) that
+  tactics](https://hygiene.digitalpublicsquare.com/Identity_or_Location/) which
   can hide the user's IP address, client settings, and other features that could
   lead to their identification.
 - **Browser Extensions** - A browser extension is a piece of software that can
@@ -51,25 +50,26 @@ Glossary
   This kind of passphrases is generally hard to remember, and even if they can
   be stored in a password manager, a passphrase is still needed to unlock the
   password manager itself. So how to remember that passphrase while keeping it
-  strong? The Diceware method helps with this: passphrase generated with this
+  secure? The Diceware method helps with this: passphrases generated with this
   method consist of 5 or 6 random words separated by spaces. Since blank spaces
-  are a character themselves, this way you will have very long passphrase with
-  letters and symbols that is very difficult to crack. To generate a diceware
+  are a character themselves, this way you will have very long passphrases with
+  letters and symbols that are very difficult to crack. To generate a diceware
   passphrase you just need 5 dice, a piece of paper and a [list of words like
   this](http://world.std.com/~reinhold/dicewarewordlist.pdf). Read [this
   article](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/)
   to find out more about the Diceware method.
 - **Email Encryption** - Emails can be compared to simple postcards, as they can
   be read by anyone who has access to the servers of your email providers.
-  Unlike postcards, they are also stored in several copies in many different
+  Unlike postcards, though, they are stored in several copies in many different
   servers, so the possibility of someone reading them is even higher, not to
   mention that some services analyze the content of your email for their
-  targeted ads. To protect your communications securely, you can encrypt your
-  messages using [GPG](https://gnupg.org/), a tool that turns your email into a long line of gibberish
-  that can only be decrypted by the person you're writing to. You can use GPG
-  with a tool like [Enigmail](https://www.enigmail.net) for
-  [Thunderbird](https://www.mozilla.org/en-US/thunderbird/), but only to
-  communicate with people who have already set up GPG on their computer. You can
+  targeted ads. To protect your communications, you can encrypt your messages
+  using [GnuPG](https://gnupg.org/) (often called GPG), a tool that turns your
+  email into a long line of gibberish that can only be decrypted by the person/s
+  you're writing to. Using GPG is easier with a tool like [Enigmail](https://www.enigmail.net)
+  for [Thunderbird](https://www.mozilla.org/en-US/thunderbird/), but whatever
+  software you use, keep in mind that you can encrypt your emails only if the
+  people you are writing to have already set up GPG on their computer. You can
   read more about email encryption in [this
   guide](https://securityinabox.org/en/guide/secure-communication/#encrypting-and-authenticating-individual-messages)
   or in the official [GnuPG guide](https://gnupg.org/gph/en/manual.html).
@@ -78,32 +78,31 @@ Glossary
   conversations as well as your chat history, if you haven't set your client to
   delete it automatically. But as with email, you can encrypt your chat so that
   it appears as an obscure string of characters to all but the person/s you're
-  chatting with. There are several tools for encrypting chat communications. You
-  can choose between
-  [OTR](https://securityinabox.org/en/guide/secure-communication/#securing-your-instant-messaging-software) -
-  that can be used for Jabber/XMPP or IRC with a variety of clients, like
+  chatting with. There are several tools for encrypting chat communications, for
+  example [OTR](https://securityinabox.org/en/guide/secure-communication/#securing-your-instant-messaging-software) -
+  which can be used for Jabber/XMPP or IRC with a variety of clients, like
   [Pidgin](https://pidgin.im/), [Adium](https://adium.im/),  or [Tor
   Messenger](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily) -
-  and [OMEMO](https://conversations.im/omemo/) - which is currently
-  implemented only in the Android XMPP-Client
+  or [OMEMO](https://conversations.im/omemo/) - which  also encrypts group chat,
+  but is currently implemented only in the Android XMPP-Client
   [Conversations](https://conversations.im/), the iOS client
-  [ChatSecure](https://chatsecure.org/), or as a plugin for the Desktop client
-  [Gajim](https://gajim.org/) and also encrypts group chat.
+  [ChatSecure](https://chatsecure.org/), or as a plugin for the desktop client
+  [Gajim](https://gajim.org/).
 - **Encrypted Document Sharing** - You have many options to share files with
   your friends and colleagues, but few offer reliable solutions to make sure
   that your files are only accessed by the people you meant to share them with.
   When deciding how to share documents securely, check that the encryption takes
   place before it leaves your computer (end-to-end encryption) and that the web
   service you're using for storage does not have access to your encryption key.
-- **Encrypted Instant Messenger** - *See Encrypted Chat*
+- **Encrypted Instant Messenger** - *See **Encrypted Chat***
 - **Encrypted Texting and Voice Apps** - To protect your phone communications,
   there are several options you can use both for texting and voice, for example
   [WhatsApp](https://www.whatsapp.com/). Of all these, one in particular,
   [Signal](https://signal.org/), offers end-to-end encryption both for messages,
   group chat and phone calls, is open source, has been audited for security and
-  doesn’t store any message metadata. Signal is an Android, iOS and desktop app.
-  To sign up, you need a phone number, and to use it your friends have to set it
-  up in their smartphones too.
+  stores very few metadata. Signal is an Android, iOS and desktop app. To sign
+  up, you need a phone number, and you can only use it to communicate with
+  contacts who have set it up in their smartphones too.
 - **Encryption** - Encryption is the process of encoding data in such a way that
   only authorized parties can access them. When we talk about encryption in this
   booklet, we always mean
@@ -111,30 +110,29 @@ Glossary
   [end-to-end](https://en.wikipedia.org/wiki/End-to-end_encryption)
   cryptography, where only the sender and receivers of the messages can decrypt
   the messages or files and no third-party controls the cryptographic keys. You
-  can read more on encryption in [this
-  guide](https://ssd.eff.org/en/module/what-encryption).
-- **FDE** - *See Full-Disk Encryption*
+  can read more on encryption in [this guide](https://ssd.eff.org/en/module/what-encryption).
+- **FDE** - *See **Full-Disk Encryption***
 - **Full-Disk Encryption (FDE)** - Encrypting sensitive files is always a good
   idea, but it is even a better idea to encrypt your whole hard disk, because if
   someone gets control over your computer or external hard drive, they will be
-  able to see all you store in your computer, which might be not highly
-  sensitive but can still be very personal. Be it for personal computers or
-  mobile devices, every operating system offers an option for full-disk
+  able to see all the unencrypted data you have stored there, which might not be
+  highly sensitive, but can still be very personal. Be it for personal computers
+  or mobile devices, every operating system offers an option for full-disk
   encryption, but remember that the device will be encrypted only when it's
   switched off. You can read more about how to keep your data safe through
   full-disk encryption
   [here](https://ssd.eff.org/en/playlist/human-rights-defender#keeping-your-data-safe).
-- **Identity** - A complex connection between our body, our documents and our
-  actions in the physical world, in the internet, also thanks to the existence
-  of anonymity tools, our identity can be more fluid and we can create many
-  different identities that build a reputation through their actions. You can
-  read more on how to securely manage your official and virtual identities
-  online in [this
+- **Identity** - A complex connection between our body, documents, activities
+  and social roles in the physical world, in the internet - also thanks to the
+  existence of anonymizing tools - our identity can be more fluid and we can
+  create many different identities that build a reputation of their own through
+  their actions. You can read more on how to securely manage your official and
+  virtual identities online in [this
   manual](https://gendersec.tacticaltech.org/wiki/index.php/Step_1).
 - **Online Persona** - An online persona is a full-fledged, credible identity
   with a name, email address, and personally identifying traits that can be
-  completely different from the characterizing traits of the physical person who
-  uses that persona. Read more on online personas
+  completely different from the features that characterize the physical person
+  who has created that persona. Read more on online personas
   [here](https://gendersec.tacticaltech.org/wiki/index.php/Step_1#Creating_a_credible_persona).
 - **Password Manager** - Password managers are tools for storing passphrases
   securely, so that no unauthorized person can access them. By using an open
@@ -148,21 +146,22 @@ Glossary
   that we accept without really reading them. [Terms of Service Didn't
   Read](https://tosdr.org/) is a project that helps us understand the terms of
   service of the websites we visit and rates each one based on the respect of
-  our privacy.  You can learn more about how to control your data in [this
+  our privacy. You can learn more about how to control your data in [this
   website](https://myshadow.org/increase-your-privacy).
 - **Short URLs** - When you click on a shortened link, for example on a bit.ly
-  link, you can't know what web page you're opening: it may be a legitimate
-  website, but it might also be an attempt at infecting your computer or a
-  phishing web page, so it's always a good idea to check what a shortened URL
-  leads to. Fortunately there are several web services and browser extensions
-  that can help you, expanding the URL so that you can check what you're going
-  to open, or offers a preview of the page linked by the shortened URL.
+  link, you can't know what web page you're going to open: it may be a
+  legitimate website, but it might also be an attempt at infecting your computer
+  or a phishing web page, so it's always a good idea to check where a shortened
+  URL leads to. Fortunately there are several web services and browser
+  extensions that can help you, expanding the URL so that you can check what
+  you're going to open, or offering a preview of the page linked through the
+  shortened URL.
 - **Secure Connections** - When you visit a website by entering a common URL
-  starting with http:// your logins and passwords and other confidential data
-  can be intercepted. Fortunately, many websites offer the possibility of
-  accessing them securely, by entering a URL that starts with https:// - where
-  the 's' stands for 'secure'. You can do this manually, but it can be even more
-  convenient to install a [browser
+  starting with http://, your logins and passwords and other confidential data
+  can be intercepted. To prevent this risk, many websites offer the possibility
+  of accessing them securely, by entering a URL that starts with https:// -
+  where the 's' stands for 'secure'. You can do this manually, but it can be
+  even more convenient to install a [browser
   extension](https://www.eff.org/https-everywhere) that secures your connections
   whenever possible. To make sure that your connections are secure also when you
   read your email or chat through a client, always check that the TLS/SSL option
@@ -173,26 +172,26 @@ Glossary
   To make sure that your account is secure, log in, go to the account settings
   and start your checkup.
 - **Software Updates** - Software is developed continuously - be it Windows,
-  your email client or a component that makes your smartphone run, its
+  your favorite videogame, or a component that makes your smartphone run, its
   developers always identify new vulnerabilities or bugs and get rid of them in
-  the newer version of the software. These vulnerabilities can be exploited by
+  the newer versions of the software. These vulnerabilities can be exploited by
   hackers to attack you with malware, ransomware and other malicious pieces of
   code. That's why it's so important to enable automatic updates of your
   operating system and software whenever possible and to avoid old unmaintained
   systems like Windows XP.
 - **Strong Password** - A password is strong if it contains at least 20
-  characters, including letters, numbers and symbols. To learn more about how to
-  generate and maintain strong password, read [this
-  tutorial](https://securityinabox.org/en/guide/passwords/). *See also Diceware
-  Method*.
+  characters, including lower- and upper-case letters, numbers and symbols.
+  To learn more about how to generate and maintain strong password, read [this
+  tutorial](https://securityinabox.org/en/guide/passwords/). *See also
+  **Diceware Method***.
 - **Two-Factor Authentication (2fa)** - When you log into a device or an online
-  account you need to verify your identity. Most of the time, you enter a
-  username and a password. Unfortunately, passwords alone are not very secure:
+  account, you need to verify your identity. Most of the time, you enter a
+  user name and a password. Unfortunately, passwords alone are not very secure:
   they can be cracked or you could be observed by someone while you're entering
-  it. It is therefore always a good idea to multifactor (or two-factor)
-  authentication, a solution that requires both something you know (for example
-  a passphrase) and something you own (for example a smartphone with a
-  code-generating app) to access your account. Read this guide on [multi-factor
+  it. It is therefore always a good idea to use two-factor  authentication, a
+  solution that requires both something you know (for example a passphrase) and
+  something you own (for example a smartphone with a code-generating app) to
+  access your account. Read this guide on [two-factor
   authentication](https://docs.google.com/document/d/1CyDaDNuLT3y3GjPZPRS_3KuXBuyjzJo8wyvTXZhBOOg/edit
   update link when published) to learn about the best practices to secure your
   account through 2fa.
@@ -204,7 +203,7 @@ Glossary
   yourself, like connecting to the internet through a trusted VPN. Here are
   [some tips](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) on how
   to choose a VPN.
-- **Untrusted Wi-Fi** - *See Unprotected Wi-Fi*
+- **Untrusted Wi-Fi** - *See **Unprotected Wi-Fi***
 - **Virtual Private Network (VPN)** - A Virtual Private Network is a network you
   can access to connect to the Internet via an encrypted tunnel. Your ISP, or
   anyone sniffing on the free wi-fi you're using to access the web, can only see
@@ -212,4 +211,4 @@ Glossary
   only record a connection from the VPN servers. To decide which is the best VPN
   for you, read [this
   guide](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you). 
-- **VPN** - *See Virtual Private Network*
+- **VPN** - *See **Virtual Private Network***

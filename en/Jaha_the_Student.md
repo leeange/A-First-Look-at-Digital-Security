@@ -14,7 +14,7 @@ Jaha does not want her family, or many of her social circle, to know her interes
 To mitigate these vulnerabilities:
 - Jaha employs **circumvention and anonymity tools** to obscure her official identity and avoid censorship.
 - She uses a browser extension that **secures her connections** to the websites she visits.
-- Jaha regularly **clears out her chat history** to avoid malicious access to previous conversation **logs**.
+- Jaha regularly **clears out her chat history** to avoid malicious access to previous conversation logs.
 - **Encrypted chat** lets Jaha connect with others like her.
 - She maintains **separate online personas** to divide her personal life from her academic life, taking special care to avoid being identifiable.
 - Jaha is particularly mindful when posting content online, to ensure that she doesn't accidentally share sensitive personal information she would prefer to be private (her location, home or work addresses, etc.).

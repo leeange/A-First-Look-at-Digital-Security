@@ -5,7 +5,7 @@ Glossary
   different entities: a lot of websites sell your data to advertising companies
   by installing in their websites small pieces of code that observe your
   browsing behaviour and keep track of you all over the web. Learn more about
-  how web trackers work and how you can avoid been tracked in [this
+  how web trackers work and how you can avoid being tracked in [this
   website](https://myshadow.org/browser-tracking).
   https://www.eff.org/deeplinks/2009/09/online-trackers-and-social-networks
 - **Anonymity** - Generally connected to situations where an author or artist

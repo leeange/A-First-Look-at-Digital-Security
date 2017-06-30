@@ -12,7 +12,7 @@ What needs protecting?
 Jaha does not want her family, or many of her social circle, to know her interests yet. She wants the freedom to explore this possible new side of herself without feeling watched and judged by others. Jaha has created a separate self online and does not want to risk public exposure until she is ready, but she still wants to access some material the university has censored.
 
 To mitigate these vulnerabilities:
-- Jaha employs **circumvention and anonymity tools** to obscure her identity and avoid censorship.
+- Jaha employs **circumvention and anonymity tools** to obscure her official identity and avoid censorship.
 - She uses a browser extension that **secures her connections** to the websites she visits.
 - Jaha regularly **clears out her chat history** to avoid malicious access to previous conversation **logs**.
 - **Encrypted chat** lets Jaha connect with others like her.

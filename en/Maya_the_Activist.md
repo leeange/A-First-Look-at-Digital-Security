@@ -11,7 +11,7 @@ What Needs Protecting?
 - Online accounts
 - Communications with other activists
 
-Carefully cultivated over years of work, Maya’s online social media accounts and blog are their life. Their **integrity** is of the utmost importance to them, their readers, and their contacts.
+Carefully cultivated over years of work, Maya’s online social media accounts and blog are their life. Their integrity is of the utmost importance to them, their readers, and their contacts.
 
 Important research, data, and plans are kept on Maya’s hard drives, and they fear that they could fall into unfriendly hands. 
 

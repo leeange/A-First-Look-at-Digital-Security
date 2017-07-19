@@ -90,15 +90,15 @@ Glossary
   [Conversations](https://conversations.im/), the iOS client
   [ChatSecure](https://chatsecure.org/), or as a plugin for the desktop client
   [Gajim](https://gajim.org/).
-- **Encrypted Document Sharing** - There are many options to share files with
+- **Encrypted File Sharing** - There are many options to share files with
   our friends and colleagues, but few offer reliable solutions to make sure that
   our files are only accessed by the people we meant to share them with.  When
-  deciding how to share documents securely, we should check that the encryption
+  deciding how to share files securely, we should check that the encryption
   takes place before it leaves our computer (end-to-end encryption) and that the
   web service we're using for storage does not have access to our encryption
   key.
 - **Encrypted Instant Messenger** - *See* ***Encrypted Chat***
-- **Encrypted Texting and Voice Apps** - To protect our phone communications,
+- **Encrypted Messaging and Voice Apps** - To protect our phone communications,
   there are several options we can use for encrypting both texting and voice,
   for example [WhatsApp](https://www.whatsapp.com/). Of all these, one in
   particular, [Signal](https://signal.org/), offers end-to-end encryption both
@@ -189,8 +189,8 @@ Glossary
   ***Diceware Method***.
 - **Two-Factor Authentication (2fa)** - When we log into a device or an online
   account, we need to verify our identity. Most of the time, we enter a user
-  name and a password. Unfortunately, a passwords alone isn't very secure: it
-  can be cracked or we could be observed by someone while we're entering it. It
+  name and a password. Unfortunately, a password alone isn't very secure: it
+  can be guessed or we could be observed by someone while we're entering it. It
   is therefore always a good idea to use two-factor  authentication, a solution
   that requires both something we know (like a passphrase) and something we own
   (for example a smartphone with a code-generating app) to access our account.
@@ -203,9 +203,7 @@ Glossary
   traveling. But if a wi-fi is open, it is also unencrypted, and malicious
   actors could sniff on our connection to intercept our activities and
   passwords.  There are however simple measures we can take to protect
-  ourselves, like connecting to the internet through a trusted VPN. Here are
-  [some tips](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) on how
-  to choose a VPN.
+  ourselves, like connecting to the internet through a trusted VPN.
 - **Untrusted Wi-Fi** - *See* ***Unprotected Wi-Fi***
 - **Virtual Private Network (VPN)** - A Virtual Private Network is a network we
   can access to connect to the Internet via an encrypted tunnel. Our ISP, or

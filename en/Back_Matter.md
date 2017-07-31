@@ -9,7 +9,7 @@ The Helpline offers real-time, direct technical assistance and advice to activis
 -	Personalized recommendations, instructions, and follow-up on digital security issues 
 -	Guidance on the usage of digital security tools
 -	 Support for securing technical infrastructure, websites, and social media against attacks
--	 Supported languages include English, Spanish, Arabic, French, Russian, German, Filipino, and Portuguese.
+-	 Supported languages include English, Spanish, Arabic, French, Russian, German, Filipino, German, and Portuguese.
 
 # RESOURCES TO HELP YOU IMPLEMENT PRACTICES LISTED IN THIS BOOK:
 https://ssd.eff.org

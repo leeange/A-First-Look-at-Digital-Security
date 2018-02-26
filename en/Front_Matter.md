@@ -4,7 +4,7 @@ as of February 2018
 
 --------------
 
-This Access Now booklet was created by Kim Burton and Anqi Li.
+This Access Now booklet was created by Kim Burton, Anqi Li, Floriana Pagano, and Michael Carbone.
 
 ![Access Now image]
 
@@ -15,8 +15,7 @@ For more information or assistance, please contact info@accessnow.org. For digit
 
 ![CC-BY-NC image]
 
-This work is provided under a Creative Commons Attribution-NonCommercial 4.0 International License. To access the full legal text of this licence, please visit https://creativecommons.org/
-licenses/by-nc/4.0/
+This work is provided under a Creative Commons Attribution-NonCommercial 4.0 International License. To access the full legal text of this licence, please visit https://creativecommons.org/licenses/by-nc/4.0/. You can contribute directly to the content at https://github.com/AccessNow/A-First-Look-at-Digital-Security/.
 
 --------------
 

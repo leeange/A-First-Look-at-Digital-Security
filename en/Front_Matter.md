@@ -19,6 +19,8 @@ This work is provided under a Creative Commons Attribution-NonCommercial 4.0 Int
 
 --------------
 
-This booklet is made to help you identify what you might have to protect in your digital world. Read in its entirety, you will find each persona has characteristics you may share, or fears you might have heard before. These cartoon animals are not made to be the focus; it is the threats they face and solutions they suggest that are important. 
+This booklet is made to help you identify what you might have to protect in your digital world. Read in its entirety, you will find each persona has characteristics you may share, or fears you might have heard before. These cartoon animals are not made to be the focus; it is the threats they face and solutions they suggest that are important.
+
+If you are not sure about what some of the terms used in this booklet mean, you can find an explanation in this glossary: https://www.accessnow.org/first-look-digital-security-glossary/
 
 We present here only the beginning of the conversation: a place to start. If you are interested in implementing the solutions, or want to ask questions about your personal context and challenges, contact the Access Now Digital Security Helpline at help@accessnow.org, or visit the resources listed on the back of the book.

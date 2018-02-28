@@ -22,4 +22,4 @@ This booklet is made to help identify what you might have to protect in your dig
 
 If you are not sure about what some of the terms used in this booklet mean, you can find an explanation in this glossary: https://www.accessnow.org/first-look-digital-security-glossary/
 
-You will find this booklet useful if you are seeking an gateway to examine and map out your threats online. If you want to learn more about best practices based on your own context and challenges, tools of protections and their implementations, or other advice to stay safe and secure online, contact the Access Now Digital Security Helpline at help@accessnow.org, or visit the resources listed on the back of the book.
+You will find this booklet useful if you are seeking a gateway to examine and map out your threats online. If you want to learn more about best practices based on your own context and challenges, tools of protection and their implementation, or other advice to stay safe and secure online, contact the Access Now Digital Security Helpline at help@accessnow.org, or visit the resources listed on the back of the book.

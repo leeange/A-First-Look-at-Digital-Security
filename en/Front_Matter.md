@@ -4,7 +4,7 @@ as of March 2018
 
 --------------
 
-This Access Now booklet was created by Kim Burton, Anqi Li, Floriana Pagano, and Michael Carbone.
+This Access Now booklet was created by Kim Burton and Anqi Li. Current authors include Michael Carbone and Floriana Pagano.
 
 ![Access Now image]
 

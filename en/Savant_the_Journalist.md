@@ -14,7 +14,7 @@ What needs protecting?
 Savant relies heavily on her phone for on-the-go communication. She constantly collaborates with others on future articles
 and documents. Savant is known for taking on stories that question the status quo, and she has no shortage of powerful people interested in that work.
 
-To mitigate these vulnerabilities:
+To mitigate these risks:
 
 - Savant **encrypts emails** to sources from her laptop ensuring the confidentiality of the messages.
 - She uses **encrypted messaging and voice apps** on her phone to connect with sources.

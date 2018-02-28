@@ -8,8 +8,7 @@ This Access Now booklet was created by Kim Burton, Anqi Li, Floriana Pagano, and
 
 ![Access Now image]
 
-Access Now is an international organization that defends and extends the digital rights of users at risk around the world. By
-combining innovative policy, user engagement, and direct technical support, we fight for open and secure communications for all.
+Access Now defends and extends the digital rights of users at risk around the world. By combining direct technical support, comprehensive policy engagement, global advocacy, grassroots grantmaking, and convenings such as RightsCon, we fight for human rights in the digital age.
 
 For more information or assistance, please contact info@accessnow.org. For digital security assistance, contact help@accessnow.org or visit https://www.accessnow.org/help
 
@@ -19,8 +18,8 @@ This work is provided under a Creative Commons Attribution-NonCommercial 4.0 Int
 
 --------------
 
-This booklet is made to help you identify what you might have to protect in your digital world. Read in its entirety, you will find each persona has characteristics you may share, or fears you might have heard before. These cartoon animals are not made to be the focus; it is the threats they face and solutions they suggest that are important.
+This booklet is made to help identify what you might have to protect in your digital world. Read in its entirety, you will find each persona has characteristics and experiences you may share, challenges you may have, or fears you have heard before. The cartoon animals are not made to be the focus; it is the threats they face and solutions they suggest that are important.
 
 If you are not sure about what some of the terms used in this booklet mean, you can find an explanation in this glossary: https://www.accessnow.org/first-look-digital-security-glossary/
 
-We present here only the beginning of the conversation: a place to start. If you are interested in implementing the solutions, or want to ask questions about your personal context and challenges, contact the Access Now Digital Security Helpline at help@accessnow.org, or visit the resources listed on the back of the book.
+You will find this booklet useful if you are seeking an gateway to examine and map out your threats online. If you want to learn more about best practices based on your own context and challenges, tools of protections and their implementations, or other advice to stay safe and secure online, contact the Access Now Digital Security Helpline at help@accessnow.org, or visit the resources listed on the back of the book.

@@ -1,6 +1,31 @@
+# USEFUL LINKS
+
+# GLOSSARY
+
+**The complete and up-to-date glossary for this booklet**
+https://www.accessnow.org/first-look-digital-security-glossary/
+
+**RESOURCES TO HELP YOU IMPLEMENT PRACTICES LISTED IN THIS BOOK:**
+
+**Tips, Tools and How-tos for Safer Online Communications**
+EFF
+https://ssd.eff.org
+
+**Security In A Box - Digital Security Tools And Tactics**
+Front Line Defenders and Tactical Technology Collective
+https://securityinabox.org
+
+**Security Planner**
+Citizen Lab
+https://securityplanner.org
+
+**Current Digital Security Resources - an up-to-date list**
+Martin Shelton
+https://medium.com/@mshelton/current-digital-security-resources-5c88ba40ce5c#.fzk67wu3z
+
 # WANT MORE PERSONALIZED ASSISTANCE?
 
-The Digital Security Helpline is a free of charge resource for civil society around the world. It is run by the international human rights organization Access Now (accessnow.org).
+The **Digital Security Helpline** is a free of charge resource for civil society around the world. It is run by the international human rights organization **Access Now (accessnow.org)**.
 
 The Helpline offers real-time, direct technical assistance and advice to activists, independent media, and civil society organizations.
 
@@ -11,12 +36,6 @@ The Helpline offers real-time, direct technical assistance and advice to activis
 -	Guidance on the usage of digital security tools
 -	 Support for securing technical infrastructure, websites, and social media against attacks
 -	 Supported languages include Arabic, English, Filipino, French, German, Italian, Portuguese, Russian, and Spanish.
-
-# RESOURCES TO HELP YOU IMPLEMENT PRACTICES LISTED IN THIS BOOK:
-
-- https://ssd.eff.org
-- https://securityinabox.org
-- https://medium.com/@mshelton/current-digital-security-resources-5c88ba40ce5c#.fzk67wu3z
 
 # HOW TO REACH US
 

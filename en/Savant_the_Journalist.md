@@ -1,9 +1,11 @@
 # Savant, the Journalist
+
 \* Savant’s preferred gender pronoun is she/her/hers.
 
 Savant is a journalist communicating with survivors of puppy mills. Savant’s sources have secret information about a mill that has the chance to shut it down. Shady characters have already attempted to find out what information that is, so now Savant takes care that all of her **communications are encrypted**, and when she collaborates on an article, she uses **encrypted file sharing** options as well.
 
 What needs protecting?
+
 - Sources: names, communications, and contacts
 - Communication with editors
 - Time-sensitive research
@@ -13,6 +15,7 @@ Savant relies heavily on her phone for on-the-go communication. She constantly c
 and documents. Savant is known for taking on stories that question the status quo, and she has no shortage of powerful people interested in that work.
 
 To mitigate these vulnerabilities:
+
 - Savant **encrypts emails** to sources from her laptop ensuring the confidentiality of the messages.
 - She uses **encrypted messaging and voice apps** on her phone to connect with sources.
 - When on shared or **untrusted wifi** (like a cafe), Savant uses a **Virtual Private Network** (**VPN**) to securely access the internet.
